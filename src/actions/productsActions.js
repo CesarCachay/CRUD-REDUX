@@ -6,6 +6,7 @@ import {
   DOWNLOAD_PRODUCTS_SUCCESS,
   DOWNLOAD_PRODDUCTS_ERROR
 } from "../types";
+
 import axiosClient from "../config/axios";
 
 // Create new product - main function
